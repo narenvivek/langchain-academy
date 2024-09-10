@@ -8,3 +8,5 @@ langchain-openai
 notebook
 tavily-python
 wikipedia
+python-dotenv
+langchain-anthropic
